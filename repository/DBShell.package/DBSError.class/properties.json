@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "JulienDelplanque 3/5/2018 11:25",
+	"super" : "Error",
+	"category" : "DBShell",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"errorCode",
+		"message"
+	],
+	"name" : "DBSError",
+	"type" : "normal"
+}
