@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "JulienDelplanque 3/5/2018 10:34",
-	"super" : "DBSCommand",
+	"super" : "DBSPConnectionCommand",
 	"category" : "DBShell-PostgreSQL-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
@@ -11,10 +11,7 @@
 		"encoding",
 		"locale",
 		"owner",
-		"template",
-		"host",
-		"port",
-		"username"
+		"template"
 	],
 	"name" : "DBSPCreatedbCommand",
 	"type" : "normal"

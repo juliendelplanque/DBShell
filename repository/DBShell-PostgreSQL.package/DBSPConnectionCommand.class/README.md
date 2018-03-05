@@ -1,0 +1,1 @@
+I am an abstract command that can get connection's data in its arguments.
