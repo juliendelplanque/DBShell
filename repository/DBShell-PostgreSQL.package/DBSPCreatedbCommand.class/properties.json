@@ -1,0 +1,21 @@
+{
+	"commentStamp" : "JulienDelplanque 3/5/2018 10:34",
+	"super" : "DBSCommand",
+	"category" : "DBShell-PostgreSQL-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dbname",
+		"description",
+		"encoding",
+		"locale",
+		"owner",
+		"template",
+		"host",
+		"port",
+		"username"
+	],
+	"name" : "DBSPCreatedbCommand",
+	"type" : "normal"
+}
