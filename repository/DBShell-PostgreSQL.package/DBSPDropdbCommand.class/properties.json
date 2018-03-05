@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "JulienDelplanque 3/5/2018 11:05",
+	"super" : "DBSPConnectionCommand",
+	"category" : "DBShell-PostgreSQL-Core",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"dbname"
+	],
+	"name" : "DBSPDropdbCommand",
+	"type" : "normal"
+}

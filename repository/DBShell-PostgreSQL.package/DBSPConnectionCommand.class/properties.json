@@ -1,6 +1,6 @@
 {
 	"commentStamp" : "JulienDelplanque 3/5/2018 11:03",
-	"super" : "Object",
+	"super" : "DBSCommand",
 	"category" : "DBShell-PostgreSQL-Core",
 	"classinstvars" : [ ],
 	"pools" : [ ],
